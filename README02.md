@@ -32,3 +32,5 @@ There are different ways to run the app through a server.  The following are the
 ## External sources
 
 https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers#The_premise_of_service_workers
+
+https://www.diigo.com/outliner/fjslyn/Udacity-Restaurant-Reviews-App-(project-%235)?key=zqiopam1yz
